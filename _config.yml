@@ -16,9 +16,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Home', link: '/CloudAuditCTFs'}
+  - {name: 'About', link: '/CloudAuditCTFs/about'}
+  - {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
