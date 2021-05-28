@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/CloudAuditCTFs" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asokamoto.github.io/" # the base hostname & protocol for your site, e.g. http://example.com -- we have to change this
 
 # SEO PLUGIN
 social:
@@ -18,7 +18,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/CloudAuditCTFs'}
   - {name: 'About', link: '/CloudAuditCTFs/about'}
-  - {name: 'Contact', link: '/CloudAuditCTFs/contact'}
+    #- {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
