@@ -49,7 +49,7 @@ comments: false
 <details>
 	<summary><b>Hint 5</b></summary>
 	<p> </p>
-	<p>Under “Authentication info you can find the</p>
+	<p>Under “Authentication info" you can find the</p>
 	<code>serviceAccountKeyName</code>
 	<p> </p>
 	<p>field. This field holds the unique identifier for any service account using the leaked key to authenticate actions, which is why we are able to run a query on the leaked key to find these logs. The field should look like this:</p>
