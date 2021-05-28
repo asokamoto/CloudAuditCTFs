@@ -12,18 +12,13 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://asokamoto.github.io/
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Home', link: '/CloudAuditCTFs'}
+  - {name: 'About', link: '/CloudAuditCTFs/about'}
+  - {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
