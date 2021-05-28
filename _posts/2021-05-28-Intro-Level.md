@@ -6,7 +6,7 @@ categories: Levels
 comments: false
 ---
 
-# Intro Level: Level Name
+# Intro Level
 
 <details>
 	<summary><b>Hint 1</b></summary>
