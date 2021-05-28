@@ -16,8 +16,8 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/CloudAuditCTFs'}
-  - {name: 'About', link: '/CloudAuditCTFs/about'}
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
     #- {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
