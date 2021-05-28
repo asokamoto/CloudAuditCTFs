@@ -22,6 +22,7 @@ comments: false
 	<p>The key we are concerned about is stored in the start directory of the console. Navigate there and view the contents of “intro-leaked.json” by entering ‘cat start/intro-leaked.json’ in the cloud shell.</p>
 	<p>Near the top there should be a line that looks something like this: </p>
 	<code>"private_key_id": "4bc0bf03d99620a3ba9e6c016ec27705b55ef6f5"</code>
+	<p> </p>
 	<p>This private key ID will be associated with any logs for events performed using the leaked key for authorization.</p>
 </details>
 
