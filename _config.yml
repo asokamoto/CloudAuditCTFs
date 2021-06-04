@@ -19,7 +19,7 @@ navigation: # Navigation links
     #- {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
-  Homepage for the ThunderCTF Cloud Audit level instructions.
+  Homepage for the ThunderCTF Cloud Audit level instructions
   
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
