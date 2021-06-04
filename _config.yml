@@ -2,9 +2,7 @@
 title: Cloud Audit CTFs # your site title
 author: Austen's Group # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Homepage for the ThunderCTF Cloud Audit level instructions
 baseurl: "/CloudAuditCTFs" # the subpath of your site, e.g. /blog
 url: "https://asokamoto.github.io/" # the base hostname & protocol for your site, e.g. http://example.com -- we have to change this
 
@@ -21,8 +19,8 @@ navigation: # Navigation links
     #- {name: 'Contact', link: '/CloudAuditCTFs/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
-
+  Homepage for the ThunderCTF Cloud Audit level instructions.
+  
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 logo: capstone.jpg
